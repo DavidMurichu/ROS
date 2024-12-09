@@ -1,0 +1,4 @@
+source;share/second_coursework/environment/ament_prefix_path.sh
+source;share/second_coursework/environment/library_path.sh
+source;share/second_coursework/environment/path.sh
+source;share/second_coursework/environment/pythonpath.sh

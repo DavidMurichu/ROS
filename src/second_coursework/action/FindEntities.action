@@ -1,0 +1,15 @@
+# Goal
+float32 duration
+
+---
+# Result
+geometry_msgs/Pose[] people_positions
+geometry_msgs/Pose[] dogs_positions
+geometry_msgs/Pose[] cats_positions
+
+---
+# Feedback
+int32 people_found
+int32 dogs_found
+int32 cats_found
+geometry_msgs/Pose last_seen_position

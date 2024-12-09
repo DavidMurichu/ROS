@@ -1,0 +1,7 @@
+{
+  "package_name": "second_coursework",
+  "non_idl_tuples": [
+    "/root/assignment_ws/src/second_coursework:msg/EmergencyMsg.msg",
+    "/root/assignment_ws/src/second_coursework:action/RobotBehavior.action"
+  ]
+}

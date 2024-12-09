@@ -1,0 +1,14 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from second_coursework/msg/EmergencyMsg.msg
+// generated code does not contain a copyright notice
+
+
+module second_coursework {
+  module msg {
+    struct EmergencyMsg {
+      string description;
+
+      float duration;
+    };
+  };
+};

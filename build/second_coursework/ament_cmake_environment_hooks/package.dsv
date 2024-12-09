@@ -1,0 +1,4 @@
+source;share/second_coursework/local_setup.bash
+source;share/second_coursework/local_setup.dsv
+source;share/second_coursework/local_setup.sh
+source;share/second_coursework/local_setup.zsh

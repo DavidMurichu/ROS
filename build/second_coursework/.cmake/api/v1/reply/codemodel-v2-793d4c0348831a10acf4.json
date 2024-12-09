@@ -1,0 +1,251 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-b23bf71d6862caf3ee3a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19
+					]
+				},
+				{
+					"build" : "second_coursework__py",
+					"jsonFile" : "directory-second_coursework__py-200a8f3d5b64f5445cb6.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/root/assignment_ws/build/second_coursework/second_coursework__py",
+					"targetIndexes" : 
+					[
+						6
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "second_coursework",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "action_server_node::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-action_server_node-d993844870f0242860fa.json",
+					"name" : "action_server_node",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_build_second_coursework_egg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_build_second_coursework_egg-7f7f13bd3f2c510ed202.json",
+					"name" : "ament_cmake_python_build_second_coursework_egg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_copy_second_coursework::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_copy_second_coursework-2c4ac31108b0ed0791a6.json",
+					"name" : "ament_cmake_python_copy_second_coursework",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "emergency_subscriber::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-emergency_subscriber-e8ff52ef80a69cb71662.json",
+					"name" : "emergency_subscriber",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "second_coursework::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-second_coursework-1a7a487dbae98095771e.json",
+					"name" : "second_coursework",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "second_coursework__cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-second_coursework__cpp-46d159643887570ba57e.json",
+					"name" : "second_coursework__cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "second_coursework__py::@31455d911b037f55e2a8",
+					"jsonFile" : "target-second_coursework__py-765fc867d1caba120539.json",
+					"name" : "second_coursework__py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "second_coursework__rosidl_generator_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-second_coursework__rosidl_generator_c-dac1f3e0203ce419f761.json",
+					"name" : "second_coursework__rosidl_generator_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "second_coursework__rosidl_generator_py::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-second_coursework__rosidl_generator_py-8a6147cb96f6422718b7.json",
+					"name" : "second_coursework__rosidl_generator_py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "second_coursework__rosidl_typesupport_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-second_coursework__rosidl_typesupport_c-6ffead99d619e00f92e5.json",
+					"name" : "second_coursework__rosidl_typesupport_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "second_coursework__rosidl_typesupport_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-second_coursework__rosidl_typesupport_c__pyext-f593b9f4db23ca07bed8.json",
+					"name" : "second_coursework__rosidl_typesupport_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "second_coursework__rosidl_typesupport_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-second_coursework__rosidl_typesupport_cpp-a07af9fd3f0683bd4716.json",
+					"name" : "second_coursework__rosidl_typesupport_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "second_coursework__rosidl_typesupport_fastrtps_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-second_coursework__rosidl_typesupport_fastrtps_c-b47b7b0b7a5e55e53dc7.json",
+					"name" : "second_coursework__rosidl_typesupport_fastrtps_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "second_coursework__rosidl_typesupport_fastrtps_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-second_coursework__rosidl_typesupport_fastrtps_c__pyext-97aa915a470d3aa5df84.json",
+					"name" : "second_coursework__rosidl_typesupport_fastrtps_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "second_coursework__rosidl_typesupport_fastrtps_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-second_coursework__rosidl_typesupport_fastrtps_cpp-b692e5a769dc2272c334.json",
+					"name" : "second_coursework__rosidl_typesupport_fastrtps_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "second_coursework__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-second_coursework__rosidl_typesupport_introspection_c-1ac1af0553fecf0f7c76.json",
+					"name" : "second_coursework__rosidl_typesupport_introspection_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "second_coursework__rosidl_typesupport_introspection_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-second_coursework__rosidl_typesupport_introspection_c__pyext-017a4841e52521c93fc3.json",
+					"name" : "second_coursework__rosidl_typesupport_introspection_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "second_coursework__rosidl_typesupport_introspection_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-second_coursework__rosidl_typesupport_introspection_cpp-e1eafdee93dfd9ced538.json",
+					"name" : "second_coursework__rosidl_typesupport_introspection_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "second_coursework_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-second_coursework_uninstall-a3d1b39a0f6e57b40c7b.json",
+					"name" : "second_coursework_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-27489d626c80dfaa55a8.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/root/assignment_ws/build/second_coursework",
+		"source" : "/root/assignment_ws/src/second_coursework"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

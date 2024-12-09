@@ -1,0 +1,35 @@
+// generated from rosidl_adapter/resource/action.idl.em
+// with input from second_coursework/action/RobotBehavior.action
+// generated code does not contain a copyright notice
+
+#include "geometry_msgs/msg/Pose.idl"
+
+module second_coursework {
+  module action {
+    @verbatim (language="comment", text=
+      "Goal")
+    struct RobotBehavior_Goal {
+      float duration;
+    };
+    @verbatim (language="comment", text=
+      "Result")
+    struct RobotBehavior_Result {
+      sequence<geometry_msgs::msg::Pose> people_positions;
+
+      sequence<geometry_msgs::msg::Pose> dogs_positions;
+
+      sequence<geometry_msgs::msg::Pose> cats_positions;
+    };
+    @verbatim (language="comment", text=
+      "Feedback")
+    struct RobotBehavior_Feedback {
+      int32 people_found;
+
+      int32 dogs_found;
+
+      int32 cats_found;
+
+      geometry_msgs::msg::Pose last_seen_position;
+    };
+  };
+};
